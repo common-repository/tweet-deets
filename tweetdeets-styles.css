@@ -1,0 +1,35 @@
+.tweet-deets {
+	background-color:#222222;
+	color:#FFFFFF;
+	font-size:14px;
+	padding:5px 10px;
+}
+.tweet-deets-tweet-highlight {
+	font-size:16px;
+	margin:10px 0px 0px;
+}
+.tweet-deets-count-number {
+	font-weight:bold;
+}
+.tweet-deets-higlighted-tweet-author{
+	font-size:11px;
+	font-weight:bold;
+}
+.tweet-deets-hotness-percentage {
+	margin:10px 0px;
+}
+.tweet-deets-hotness-percentage-actual {
+	font-size:32px;
+	width:75px;
+	margin:auto;
+	margin-bottom:20px;
+}
+.tweet-deets-title {
+	margin-top:5px;
+}
+.tweet-deets-title, tweet-deets-tweet-highlight, tweet-deets-hotness-percentage-title {
+	margin-bottom:0px;
+}
+.tweet-deets-no-tweets {
+	margin-bottom:20px;
+}
